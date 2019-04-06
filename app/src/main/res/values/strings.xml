@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">MetamorfosiTourGuide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="business_name">Business Name</string>
+    <string name="distance_from_park">Distance from central park</string>
+    <string name="ratio"> Review Ratio</string>
+
+    <!--Tab layout strings-->
+    <string name="tab_to_eat">To Eat</string>
+    <string name="tab_to_drink">To Drink</string>
+    <string name="tab_to_sleep">To Sleep</string>
+    <string name="tab_to_visit">To Visit</string>
+
+    <!--distance strings-->
+    <string name="distance_in_meters">m from central park</string>
+    <string name="distance_in_km">km from central park</string>
+
+    <!--Bar names strings-->
+    <string name="green_place">Green Place Fresh Bar</string>
+    <string name="volta">Volta Cafe Bar</string>
+    <string name="sunny_bay_beach_bar">Sunny Bay Beach Bar</string>
+    <string name="thalassa">Thalassa Beach Bar</string>
+    <string name="blue_cafe">Blue Cafe</string>
+    <string name="simeon_pool_bar">Simeon Pool Bar</string>
+    <string name="blue_dolphin_pool_bar">Blue Dolphin Poll Bar</string>
+    <string name="porto_matina_beach_bar">Porto Matina Beach Bar</string>
+
+    <!--ToEat business names strings-->
+    <string name="cup_grill_bar">Cup Grill Bar</string>
+    <string name="vassilis">Vassilis Taverna</string>
+    <string name="la_strada">La Strada Pizzeria</string>
+    <string name="liana">Liana Fish Restaurant</string>
+    <string name="giota">Giota Pizzeria</string>
+    <string name="gyrobank">Gyrobank Grill</string>
+    <string name="brothers">Brothers Grill</string>
+
+    <!--Hotel names strings-->
+    <string name="blue_dolphin">Blue Dolphin Hotel</string>
+    <string name="village_mare">Village Mare Hotel</string>
+    <string name="simeon_hotel">Simeon Hotel</string>
+    <string name="golden_beach">Golden Beach Hotel</string>
+    <string name="amari">Amari Hotel</string>
+    <string name="bella_maria">Villa Bella Maria Hotel</string>
+    <string name="four_you">4You Appartments</string>
+    <string name="porto_matina">Porto Matina Hotel</string>
+    <string name="anna_christina">Anna-Christina Appartments</string>
+    <string name="olympic_bibis">Olympic Bibis Hotel</string>
+    <string name="sunny_bay_camping">Sunny Bay Camping</string>
+    <string name="sithon_camping">Sithon Camping</string>
+
+
+    <!--To visit places names strings-->
+    <string name="central_park">Central Park of Metamorfosi</string>
+    <string name="pine_forest">Pine Forest</string>
+    <string name="village_beach">Central Village Beach</string>
+    <string name="askamnia_beach">Askamnia Beach</string>
+    <string name="road_sea">Road by the Sea</string>
+    <string name="sithon_beach">Camping Sithon Beach</string>
+    <string name="nikiti">Nikiti Old Village</string>
+    <string name="agios_giannis">Agios Giannis Beach</string>
+    <string name="koviu_beach">Koviu Beach</string>
+    <string name="salonikiu_beach">Salonikiu Beach</string>
+
+
+
+
+
+
+
+
+
+
+</resources>

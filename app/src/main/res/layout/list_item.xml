@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="88dp">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="@dimen/list_item_height"
+        android:layout_height="@dimen/list_item_height"
+        android:layout_marginLeft="@dimen/medium_margin"
+        android:layout_marginRight="@dimen/small_margin"
+        android:layout_marginBottom="@dimen/medium_margin"/>
+
+    <RelativeLayout
+        android:id="@+id/info_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/image"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        >
+
+        <TextView
+            android:id="@+id/business_name"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/textview_height"
+            android:textColor="@color/textColor"
+            android:layout_weight="1"
+            android:paddingLeft="@dimen/small_margin"
+            android:paddingRight="@dimen/medium_margin"
+            android:textStyle="bold"
+            android:textSize="@dimen/header_text_size"
+            android:text="@string/business_name"
+            />
+
+        <TextView
+            android:id="@+id/business_distance"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/textview_height"
+            android:layout_below="@id/business_name"
+            android:textColor="@color/textColor"
+            android:layout_weight="1"
+            android:paddingLeft="@dimen/small_margin"
+            android:paddingRight="@dimen/medium_margin"
+            android:text="@string/distance_from_park"
+            />
+
+        <TextView
+            android:id="@+id/business_ratio"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/textview_height"
+            android:layout_below="@id/business_distance"
+            android:textColor="@color/textColor"
+            android:layout_weight="1"
+            android:paddingLeft="@dimen/small_margin"
+            android:paddingRight="@dimen/medium_margin"
+            android:text="@string/ratio"
+            android:gravity="top"
+            />
+
+    </RelativeLayout>
+
+</RelativeLayout>
